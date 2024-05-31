@@ -1,0 +1,7 @@
+accion ejer 1 es 
+
+Arreglo nombres [50]
+Para (i:0 ; i<=49;i++) hacer
+Escribir (“ingrese un nombre”)
+Nombres[i]
+Finpara

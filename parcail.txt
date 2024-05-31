@@ -1,0 +1,14 @@
+CONCURRENCIA
+Los temas centrales del diseño de sistem,as operativos estan todos relacionaods con la gestión de procesos eh hilos 
+* MULTIPROGGRAMACION:GESTION DE MULTIPLES PROCESOS DENTRO DE UN SISTEMA MONORPOCESADOR 
+
+*MULTIPROCESAMIENTO:Gestion de mjultiples procesos dento de un multiprocesador 
+
+*PROCESAMIENTO DISTRIBUIDO: Gestion de multiples procesos que ejecutan sobre multiples sistemas de computo distribuidos 
+
+La concurrencia es fundamental en todas estas areas y el diseño del sistema operativo. La concurrencia abarva varios aspectos, entre los que estan la comunicacione entre procesos y la comparticion de o competencia por recursos, la sincronizacion de actividades multiples procesos y la reserva 
+del tiempo de procesador para los procesos. Debemos entender que estos son asuntos que no solo suceden en el entorno del multiproceswamiento y procesamientoi disdtrihbuido, sino tambien en sistemas monoprocesadoor multiprogramados
+HAY 3 CONCURRENCIAS
+MULTIPLES APLICACIONES: LA MULTIPROGRAMNACION FUE IDEADA PARA COMPARTIR DINAMICAMENTE EL TIEMPO DE PROCESAMIENTO ENTRE VARIAS APLICACIONES ACTIVAS
+APLICACIONES ESTRUCTURADAS: PUEDE SER PROGRAMADAS EFICAZMENTE COMO UN CONJUNTO DE PROCESOS CONCURRENTES
+ESTRUCTURA DE SISTEMA OPERATIVO: LAS MISMAS VENTAJAS CONSTRUCTIVASD SON APLICABLES A LA PROGRAMACION DE SISTEMAS,  Y DE HECHO LOS SISTEMAS OPERATIVOS SON A MENUDO IMPLEMENTADOS ENM SI MISMOS COMO UN CONJUNTO DE PROCESOS EH HILOS.

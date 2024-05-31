@@ -1,0 +1,12 @@
+Arreglo nombres [50]
+nombre_a_eliminar
+si arreglo nombres
+Para (i:0 ; i<=49;i++) 
+
+Escribir (“ingrese un nombre”)
+sino
+para i i<=49;i--
+leer ("Nombre eliminado")
+Nombres[i]
+fin si
+Finpara
